@@ -1,2 +1,2 @@
-# python-calculator
-A simple Python calculator
+# python-all small and simple project
+
